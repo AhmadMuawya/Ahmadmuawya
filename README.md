@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmad</h1>
-<h3 align="center">Software engineering student at Universiti Teknologi Malaysia.</h3>
+<h1 align="center">Hi 👋, I'm Ahmad Muawya</h1>
+<h3 align="center">Comp sci, Software Engineering student at Universiti Teknologi Malaysia.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
